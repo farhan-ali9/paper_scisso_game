@@ -17,6 +17,8 @@ Python 3.11.4
 1- Clone the repository or download the ZIP file.
 
 
+
+
 2- Ensure that you have Python 3.x installed on your system.
 
 
@@ -24,6 +26,7 @@ Python 3.11.4
 
 
 1- Run the **rock_paper_scissors.py** script using the following command:
+
 
 
 Copy code
@@ -35,10 +38,14 @@ Copy code
 2- Enter your choice (rock, paper, or scissors) when prompted.
 
 
+
 3- The program will compare your choice with the computer's random choice and determine the winner.
 
 
+
 4- The result of the game will be displayed on the screen.
+
+
 
 
 # Let me know if you need any further assistance!
